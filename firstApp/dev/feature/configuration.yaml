@@ -7,3 +7,6 @@ databasePool:
 
 search:
   defaultQuery: hey Norbert!
+  
+connections:
+  kafkaBrokers: broker1:123
