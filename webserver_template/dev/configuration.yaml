@@ -1,2 +1,2 @@
 connections:
-  kafkaBrokers: broker1:123
+  kafkaBrokers: broker1:123, broker6:126
