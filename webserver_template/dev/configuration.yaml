@@ -1,2 +1,2 @@
 connections:
-  kafkaBrokers: localhost:9092
+  kafkaBrokers: broker1:123
